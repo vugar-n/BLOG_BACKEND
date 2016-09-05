@@ -1,0 +1,39 @@
+.clearFix {
+    float: none;
+}
+
+#loginpage h1 {
+    color: #9A9A9A;
+}
+
+#loginpage input {
+    margin: 10px;
+}
+
+#loginpage input[name='submit'] {
+    background: #8B0530;
+    color: white;
+    font-size: 16px;
+    -webkit-appearance: none;
+}
+
+#loginpage img {
+    margin-top: 30px;
+}
+
+#navbar ul {
+    margin-top: 25px;
+}
+
+#navbar ul li {
+    font-size: 18px;
+    font-weight: bold;
+}
+
+#navbar img {
+    margin-top: 30px;
+}
+
+#navbar input[name='logout'] {
+    padding: 5px 10px;
+}
